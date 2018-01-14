@@ -1,0 +1,2 @@
+# moje-komponenty
+gotowe komponenty 
